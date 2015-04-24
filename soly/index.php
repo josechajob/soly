@@ -246,7 +246,7 @@ $ git push</pre>
                 <h3>Web Console</h3>
                 <p>You can use the OpenShift web console to enable additional capabilities via cartridges, add collaborator access authorizations, designate custom domain aliases, and manage domain memberships.</p>
 
-                <h3>Command Line Tools</h3>
+                <h3>Commddand Line Tools</h3>
                 <p>Installing the <a href="https://developers.openshift.com/en/managing-client-tools.html">OpenShift RHC client tools</a> allows you complete control of your cloud environment. Read more on how to manage your application from the command line in our <a href="https://www.openshift.com/user-guide">User Guide</a>.
                 </p>
 
